@@ -8,7 +8,6 @@ body {
   border: solid 1px black;
   width: 350px;
   margin: 5px;
-  float: left;
 }
 
 .appsmall {
@@ -16,7 +15,6 @@ body {
   border: solid 1px black;
   width: 100px;
   margin: 5px;
-  float: left;
 }
 
 .menu {
