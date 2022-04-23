@@ -37,7 +37,3 @@ img {
 .imgsmall {
   height: 100px;
 }
-
-.apps {
-  display: flex;
-  justify-content: center;
